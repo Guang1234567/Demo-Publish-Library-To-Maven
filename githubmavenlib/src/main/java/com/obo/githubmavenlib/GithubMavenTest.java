@@ -5,5 +5,5 @@ package com.obo.githubmavenlib;
  */
 public class GithubMavenTest {
     public static int valueInt = 10088;
-    public static String valueString = "hello,this is string from git";
+    public static String valueString = "hello,this is string from git2222";
 }

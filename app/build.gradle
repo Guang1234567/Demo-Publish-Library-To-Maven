@@ -25,13 +25,16 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.1.0'
     compile 'com.android.support:design:23.1.0'
 
-    compile 'com.obo:githubmavenlib:1.0'
+    //compile 'com.obo:githubmavenlib:1.0'
+    compile 'a.b.c:githubmavenlib:0.9.6'
 }
 
 
+/*
 repositories{
     jcenter()
     maven {
         url "https://raw.githubusercontent.com/OboBear/mavenRepository/master"
     }
 }
+*/
